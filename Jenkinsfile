@@ -29,7 +29,7 @@ pipeline {
               }
             }
           }
-        }
+        
       }
         stage('Java 9') {
           agent {
